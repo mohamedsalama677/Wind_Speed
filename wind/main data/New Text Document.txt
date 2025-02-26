@@ -1,0 +1,7 @@
+
+
+
+
+with many coulm :
+                train = 91 
+                test = 87 
